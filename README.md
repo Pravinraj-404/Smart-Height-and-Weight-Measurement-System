@@ -322,7 +322,7 @@ Computer Science Engineering Student
 
 <div align="center">
 
-##  If you found this project useful, don't forget to Star this repository!
+##  If you found this project useful, don't forget to Star this repository (:
 
 ### Made with ESP32
 
