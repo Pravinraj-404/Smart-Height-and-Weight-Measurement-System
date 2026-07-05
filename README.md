@@ -289,22 +289,36 @@ Feel free to fork this repository and submit a Pull Request.
 
 ---
 
-# 👨‍💻 Author
+# 👥 Project Team
 
-## **S. Pravin Raj**
+This project was developed as a collaborative Mini Project by:
+
+| Name | Role |
+|------|------|
+| **S. Pravin Raj** | ESP32 Programming, System Integration & GitHub Repository |
+| **Praveena Prem** | Documentation & System Architecture|
+| **Y. Ameesh Khan** | Documentation & System Architecture|
+| **Yadhu Raj R** | System Designer |
+
+Department of Computer Science & Engineering
+Mohandas College of Engineering and Technology
+
+---
+
+# 👨‍💻 Repository Maintainer
+
+**S. Pravin Raj**
 
 Computer Science Engineering Student
 
 ### Interests
 
--  Cloud Computing
+- Cloud Computing
 - AWS
 - Computer Networking
 - Embedded Systems
 - Internet of Things (IoT)
 - Hardware Development
-
----
 
 <div align="center">
 
