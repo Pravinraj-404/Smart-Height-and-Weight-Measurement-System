@@ -14,7 +14,7 @@
 
 <img src="Images/Prototype3.jpg" width="80%" alt="Smart Height & BMI Measurement System">
 
-### *A Smart Embedded Healthcare Prototype capable of measuring human height, calculating BMI, providing voice guidance, and displaying health information using ESP32.*
+### *A Smart Embedded Healthcare Prototype capable of measuring human height, calculating BMI, providing voice guidance and displaying health information using ESP32.*
 
 </div>
 
@@ -26,9 +26,9 @@ The **Smart Height & BMI Measurement System** is an embedded healthcare project 
 
 The system automatically measures a user's **height** using an **HC-SR04 Ultrasonic Sensor** and calculates **Body Mass Index (BMI)** after the user enters their weight through a **4×4 Matrix Keypad**.
 
-To enhance user interaction, the system provides **voice guidance** using a **DFPlayer Mini MP3 Module**, displays results on a **16×2 I²C LCD**, and indicates the BMI category using **LED indicators**.
+To enhance user interaction, the system provides **voice guidance** using a **DFPlayer Mini MP3 Module**, displays results on a **16×2 I²C LCD** and indicates the BMI category using **LED indicators**.
 
-This project demonstrates embedded systems, sensor interfacing, serial communication, and user-friendly healthcare automation.
+This project demonstrates embedded systems, sensor interfacing, serial communication and user-friendly healthcare automation.
 
 ---
 
@@ -209,7 +209,6 @@ Smart-Height-and-Weight-Measurement-System
 <p align="center">
 <img src="Images/Prototype1.jpg" width="30%">
 <img src="Images/Prototype2.jpg" width="30%">
-<img src="Images/Prototype3.jpg" width="30%">
 </p>
 
 ---
@@ -244,17 +243,17 @@ Videos/Demo.mp4
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
-- ⚖️ Automatic Weight Measurement using Load Cells
-- ☁️ AWS IoT Cloud Integration
-- 📊 Web Dashboard
-- 📱 Mobile Application
-- 📈 User Health History
-- 🤖 AI-Based Health Recommendations
-- 📡 Wi-Fi Data Logging
-- 📏 Automatic Waist-to-Hip Ratio Measurement
-- 🧾 Health Report Generation
+-  Automatic Weight Measurement using Load Cells
+-  AWS IoT Cloud Integration
+-  Web Dashboard
+-  Mobile Application
+-  User Health History
+-  AI-Based Health Recommendations
+-  Wi-Fi Data Logging
+-  Automatic Waist-to-Hip Ratio Measurement
+-  Health Report Generation
 
 ---
 
@@ -298,7 +297,7 @@ Computer Science Engineering Student
 
 ### Interests
 
-- ☁️ Cloud Computing
+-  Cloud Computing
 - AWS
 - Computer Networking
 - Embedded Systems
@@ -309,8 +308,8 @@ Computer Science Engineering Student
 
 <div align="center">
 
-## ⭐ If you found this project useful, don't forget to Star this repository!
+##  If you found this project useful, don't forget to Star this repository!
 
-### Made with ❤️ using ESP32
+### Made with  using ESP32
 
 </div>
