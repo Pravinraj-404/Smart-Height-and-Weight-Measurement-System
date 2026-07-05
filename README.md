@@ -283,7 +283,7 @@ Videos/Demo.mp4
 
 # 🤝 Contributing
 
-Contributions, ideas, and improvements are always welcome.
+Contributions, ideas and improvements are always welcome.
 
 Feel free to fork this repository and submit a Pull Request.
 
