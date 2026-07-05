@@ -324,6 +324,6 @@ Computer Science Engineering Student
 
 ##  If you found this project useful, don't forget to Star this repository!
 
-### Made with  using ESP32
+### Made with ESP32
 
 </div>
