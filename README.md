@@ -297,7 +297,7 @@ This project was developed as a collaborative Mini Project by:
 |------|------|
 | **S. Pravin Raj** | ESP32 Programming, System Integration & GitHub Repository |
 | **Praveena Prem** | Documentation & System Architecture|
-| **[Y. Ameesh Khan] (https://github.com/Ameeshkhan47)** | Documentation & System Architecture|
+| **[Y. Ameesh Khan](https://github.com/Ameeshkhan47)** | Documentation & System Architecture|
 | **Yadhu Raj R** | System Designer |
 
 Department of Computer Science & Engineering
