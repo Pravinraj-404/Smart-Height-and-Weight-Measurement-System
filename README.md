@@ -34,16 +34,16 @@ This project demonstrates embedded systems, sensor interfacing, serial communica
 
 # ✨ Features
 
-- 📏 Automatic Height Measurement
-- ⚖️ BMI Calculation
-- ⌨️ Manual Weight Entry using 4×4 Matrix Keypad
-- 🔊 Voice Guidance using DFPlayer Mini
-- 📺 16×2 I²C LCD Display
-- 💡 BMI Status Indication using LEDs
-- 🔘 Power Button Control
-- 🎤 Spoken Height & BMI Results
-- ⚡ ESP32 Based Embedded System
-- 💰 Low-Cost Portable Design
+- Automatic Height Measurement
+- BMI Calculation
+- Manual Weight Entry using 4×4 Matrix Keypad
+- Voice Guidance using DFPlayer Mini
+- 16×2 I²C LCD Display
+- BMI Status Indication using LEDs
+- Power Button Control
+- Spoken Height & BMI Results
+- ESP32 Based Embedded System
+- Low-Cost Portable Design
 
 ---
 
@@ -293,7 +293,7 @@ Feel free to fork this repository and submit a Pull Request.
 
 This project was developed as a collaborative Mini Project by:
 
-| Name | Role |
+| Name | Contribution |
 |------|------|
 | **[S. Pravin Raj](https://github.com/Pravinraj-404)** | ESP32 Programming, System Integration & GitHub Repository |
 | **[Praveena Prem](https://github.com/Praveena-0703)** | Documentation & System Architecture|
